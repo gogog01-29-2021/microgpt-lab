@@ -1,0 +1,15 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
