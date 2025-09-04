@@ -1,0 +1,3 @@
+the quick fox merges tokens greedily
+the quick fox jumps over the lazy dog
+some sample text for training BPE
